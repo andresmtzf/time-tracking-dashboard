@@ -6,7 +6,8 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)  
+  - [Screenshot](#screenshot)
+  - [Links](#links)  
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -25,9 +26,19 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop Preview
+
 ![My own design preview for the Time tracking dashboard coding challenge](./design/own-screenshot-tracking.jpeg)
 
+Mobile Preview
+
+![My own design preview for the Time tracking dashboard coding challenge](./design/own-screenshot-tracking-mobile.jpeg)
+
 The preview of my solution.
+
+### Links
+
+- Live Solution URL: [Time Tracking](https://time-tracking-dashboard-andresmtzf.vercel.app/)
 
 ## My process
 
