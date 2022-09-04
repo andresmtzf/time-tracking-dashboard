@@ -74,7 +74,7 @@ To see how you can add code snippets, see below:
 
 ### Useful resources
 
-- [CondigTube](https://www.youtube.com/c/CodingTube) - This helped me for understand how could separate in blocks the elements of the dashboard. I really liked his way to explain.
+- [CodingTube](https://www.youtube.com/c/CodingTube) - This helped me for understand how could separate in blocks the elements of the dashboard. I really liked his way to explain.
 
 ## Author
 
