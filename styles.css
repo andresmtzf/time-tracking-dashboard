@@ -114,7 +114,7 @@ body {
     overflow: hidden;
 }
 
-.card_image {
+.card__image {
     margin-top: -10px;
     padding-left: 235px        
 }
@@ -170,8 +170,7 @@ body {
 
     .main-container {
         width: 1150px;
-        display: flex;
-        
+        display: flex;        
     }
 
     .first-section {
@@ -219,7 +218,7 @@ body {
         margin-bottom: 25px;        
     }
 
-    .card_image {        
+    .card__image {        
         padding-left: 140px;
     }
 
