@@ -2,8 +2,6 @@
 
 import data from './data.json' assert {type: 'json'};
 
-console.log(data);
-
 let backgroundColors = [
     'hsl(15, 100%, 70%)', /* (work) */
     'hsl(195, 74%, 62%)', /* (play) */
